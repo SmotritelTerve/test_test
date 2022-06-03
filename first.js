@@ -1,3 +1,5 @@
 console.log('hello')
 
-let a
+let a = "Felix";
+
+console.log(a);
